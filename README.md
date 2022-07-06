@@ -19,3 +19,8 @@ DarkHorse allows you to add custom and unique Widgets, Plugins and Extensions to
 # This, is even a little.
 
 DarkHorse is the official Pluck browser.
+
+# Download Instructions
+Download Link: https://bit.ly/3nFFeai 
+<br>Extract the .ZIP and put on Program Files (x86) folder.</br>
+<br>The main .EXE can be found here (\DarkHorse Browser\dist\DarkHorse.exe) </br>
